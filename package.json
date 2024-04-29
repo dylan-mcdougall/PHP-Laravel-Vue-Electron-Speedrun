@@ -1,0 +1,22 @@
+{
+  "name": "php-laravel-vue-electron-speedrun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylan-mcdougall/PHP-Laravel-Vue-Electron-Speedrun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylan-mcdougall/PHP-Laravel-Vue-Electron-Speedrun/issues"
+  },
+  "homepage": "https://github.com/dylan-mcdougall/PHP-Laravel-Vue-Electron-Speedrun#readme",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
